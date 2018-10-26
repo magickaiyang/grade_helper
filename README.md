@@ -11,6 +11,7 @@ It reduces the need for copying and pasting, switching tabs, and navigating goog
 > ![g](/info/GitHub_token.PNG)
 4. Edit github_usernames.txt to contain a list of students' GitHub username, separated by \n. You could copy the entire column from Lab Grading Sheet.
 5. Run web_grade_helper.py
+6. Copy the grades in grades.txt to google sheet. Copy all and paste to the entire column.
 
 ## Considerations
 * Keep your GitHub token safe
