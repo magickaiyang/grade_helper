@@ -5,7 +5,7 @@ import urllib.request
 from urllib.error import HTTPError
 import os
 
-base_url = 'https://api.github.com/repos/Purdue-CS193/lab-4-{}/contents/answers.txt'  # replace with proper url
+base_url = 'https://api.github.com/repos/Purdue-CS193/lab-5-{}/contents/answers.txt'  # replace with proper url
 token = 'Your_Token_Here'  # fill in your GitHub personal token
 # token = input('Enter your GitHub personal token:')
 
